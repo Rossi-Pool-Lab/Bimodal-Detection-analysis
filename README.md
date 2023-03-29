@@ -13,9 +13,9 @@ Sorting of every sesion with variation 1 of the BDT:
 
 Changing the data format for the analysis and getting files of all sorted  neurons from all sesions:
 
-->
+->GetNeuFiles.py
 
--> 
+->GetAllNeu.py
 
 ### ANALYSIS:
 
